@@ -1,4 +1,24 @@
-# # 1. Write a Python program to declare a variable x with value "50", convert it to an integer, add 10 to it, and print the result.
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 1. Write a Python program to declare a variable x with value "50", convert it to an integer, add 10 to it, and print the result.
 # # Given the list:
 # # numbers = [5, 10, 15, 20, 25]
 # # Replace 15 with 50.
