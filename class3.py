@@ -1,9 +1,4 @@
 
-
-# this is our third class to learn python and currently we are learning OOP
-
-
-
 class student:
     def developer(self):
         print("is a developer")
