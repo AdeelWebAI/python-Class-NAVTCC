@@ -1,3 +1,9 @@
+
+
+# this is our third class to learn python and currently we are learning OOP
+
+
+
 class student:
     def developer(self):
         print("is a developer")
@@ -7,7 +13,7 @@ class ali(student):
         print("is a java developer")
         
 
-        
+
 class ahmad(student):
     def developer(self):
         print("is a python developer")
