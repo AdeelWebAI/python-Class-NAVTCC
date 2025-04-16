@@ -19,6 +19,8 @@ dev(student())
 
 
 
+
+
 # class ali:
 #     def developer(self):
 #         print("ali is a developer")
