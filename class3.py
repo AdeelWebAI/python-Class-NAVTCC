@@ -6,6 +6,8 @@ class ali(student):
     def developer(self):
         print("is a java developer")
         
+
+        
 class ahmad(student):
     def developer(self):
         print("is a python developer")
