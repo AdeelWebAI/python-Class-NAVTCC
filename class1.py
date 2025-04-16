@@ -20,7 +20,7 @@
 # std1 = Student("ali", 22)
 # std1.printProperty()
 
-
+print("pirnt it plz")
 
 
 class student:
