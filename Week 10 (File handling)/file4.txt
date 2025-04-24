@@ -1,2 +1,0 @@
-This is a sample file created using Python.
-File name: file4.txt
