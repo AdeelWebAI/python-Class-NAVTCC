@@ -1,17 +1,17 @@
-# grade = float(input("write your marks here: "))
+grade = float(input("write your marks here: "))
 
-# if grade >= 80:
-#     print("Your grade is A")
+if grade >= 80:
+    print("Your grade is A")
     
-# elif grade >= 60:
-#     print("Your grade is B")
+elif grade >= 60:
+    print("Your grade is B")
     
 
-# elif grade >= 40:
-#     print("Your grade is C")
+elif grade >= 40:
+    print("Your grade is C")
     
-# else:
-#     print("you are failed")
+else:
+    print("you are failed")
 
 # names = ["ali", "ahmad", "abdullah", 22]
 
